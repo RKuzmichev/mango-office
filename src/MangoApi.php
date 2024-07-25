@@ -1,5 +1,5 @@
 <?php
-namespace TimurTurdyev\MangoOffice;
+namespace Kuzmichev\MangoOffice;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Cookie\CookieJar;

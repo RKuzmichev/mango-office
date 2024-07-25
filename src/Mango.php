@@ -1,7 +1,7 @@
 <?php
-namespace TimurTurdyev\MangoOffice;
+namespace Kuzmichev\MangoOffice;
 
-use TimurTurdyev\MangoOffice\MangoApi;
+use Kuzmichev\MangoOffice\MangoApi;
 use Illuminate\Support\Facades\Config;
 /**
  * Список методов для работы с API mango-office
