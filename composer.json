@@ -8,7 +8,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://github.com/RKuzmichev/mango-office.git"
+            "url": "https://git.kuzmichev.pw/kuzmichev/laravel-mango-office.git"
         }
     ],
     "require": {
